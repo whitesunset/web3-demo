@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+svg {
+  width: 75vmin;
+  height: 75vmin;
+}
+#app {
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(-45deg, #FF5B95, #A42586);
+}
